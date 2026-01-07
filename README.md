@@ -139,7 +139,7 @@ Returns a list of all blog posts.
 - [ ] Add rich text editor for post content
 - [ ] Add image upload support
 
-## 📝 Development
+## Development
 
 ### Building for Production
 
